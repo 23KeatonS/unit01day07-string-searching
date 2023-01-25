@@ -40,6 +40,6 @@ public class FindWord {
         }else{
             System.out.println("letter not in sentence");
         }
-
+System.out.println("hi");
     }
 }
